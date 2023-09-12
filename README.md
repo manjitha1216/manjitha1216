@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there I'm Manjitha Manchanayake 👋
+
+🎓 Master's Student at Riga Technical University, Latvia
+🌐 MSc. Telecommunication Technologies and Network Management
+📚 Passionate about learning and exploring the world of cloud computing and networking
+🌱 I’m currently learning Python, Terraform and Kubernetes
+💡 Always eager to collaborate on exciting projects
+🔗 Connect with me and let's code together!
 
 <!--
 **manjitha1216/manjitha1216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
